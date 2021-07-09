@@ -1,4 +1,4 @@
-CLASS zcl_abapgit_test DEFINITION
+CLASS zcl_abapgit_test2 DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -10,5 +10,5 @@ ENDCLASS.
 
 
 
-CLASS zcl_abapgit_test IMPLEMENTATION.
+CLASS zcl_abapgit_test2 IMPLEMENTATION.
 ENDCLASS.
